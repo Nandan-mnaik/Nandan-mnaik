@@ -71,28 +71,20 @@ My interests sit at the intersection of **GenAI architecture, retrieval-augmente
 
 ---
 
-### 💼 Experience
-
-**Research Intern — ABB**  
-- Implemented Bezier-curve trajectory models  
-- Integrated optimized motion control algorithms  
-- Worked in cross-functional engineering teams
-
----
-
 ---
 
 ### 📫 Let’s Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nandan-naik-201539255/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />
-</a>
-&nbsp;
-<a href="mailto:nandanmaheshnaik@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail" />
-</a>
+  <a href="https://www.linkedin.com/in/nandan-naik-201539255/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:nandanmaheshnaik@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
 </p>
+
 
 ---
 
