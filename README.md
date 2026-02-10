@@ -84,18 +84,12 @@ Focused on **medical image modeling with performance metrics**.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Nandan’s GitHub Stats" />
-</p>
-
 ---
 
 ### 📫 Let’s Connect
 
 <p align="center">
-<a href="https://linkedin.com/in/your-link">
+<a href="https://www.linkedin.com/in/nandan-naik-201539255/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />
 </a>
 &nbsp;
