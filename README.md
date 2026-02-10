@@ -55,38 +55,19 @@ My interests sit at the intersection of **GenAI architecture, retrieval-augmente
 
 ---
 
-### 🚀 Featured Projects
+### 💻 Projects
 
-#### 🔍 IntelliQuery
-**Retrieval-augmented question-answering system**  
-Tech: Python • LangChain • FAISS • Chroma  
-- Efficient document retrieval + LLM synthesis  
-- Improves query relevance and speed  
-- Modular to multiple data sources
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Portfolio**](https://github.com/Nandan-mnaik/Portfolio) | Personal portfolio website showcasing projects, skills, and experience — built to highlight both technical work and design clarity. | ![HTML](https://img.shields.io/badge/-HTML-black?logo=html5) ![CSS](https://img.shields.io/badge/-CSS-black?logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript) |
+| [**RAG**](https://github.com/Nandan-mnaik/RAG) | Retrieval-Augmented Generation framework for building context-aware QA pipelines. Includes embedding generation, semantic search, and response synthesis. | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![LangChain](https://img.shields.io/badge/-LangChain-black) ![FAISS](https://img.shields.io/badge/-FAISS-black) |
+| [**RAG-using-LLAMA3.2**](https://github.com/Nandan-mnaik/RAG-using-LLAMA3.2) | Advanced RAG system integrating LLAMA 3.2 models for high-quality generative responses with retrieval support. Focused on scalable, low-latency inference. | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![LLAMA](https://img.shields.io/badge/-LLAMA-black) |
+| [**Certificate-Generator**](https://github.com/Nandan-mnaik/Certificate-generator) | Utility for bulk generation of custom certificates using automation logic and templating — ideal for workshops and events. | ![Python](https://img.shields.io/badge/-Python-black?logo=python) |
+| [**Skin_Cancer_Detection**](https://github.com/Nandan-mnaik/Skin_cancer_detection) | Deep learning pipeline for multi-class classification of skin lesions. Includes preprocessing, augmentation, and model fine-tuning for improved diagnostic accuracy. | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow) |
+| [**Time-Series-Analysis**](https://github.com/Nandan-mnaik/Time-series-Analysis) | Applied time series exploration, forecasting, and feature extraction workflows — useful for trend detection and predictive modeling. | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas) |
+| [**SER_proto**](https://github.com/Nandan-mnaik/Ser_proto) | Speech Emotion Recognition prototype demonstrating audio feature extraction and classification modeling with deep learning. | ![Python](https://img.shields.io/badge/-Python-black?logo=python) |
+| [**LANGCHAIN_FDP**](https://github.com/Nandan-mnaik/LANGCHAIN_FDP) | Functional LangChain demos and experiments covering chain building, tool use, and retrieval logic for LLM workflows. | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![LangChain](https://img.shields.io/badge/-LangChain-black) |
 
-👉 A system that’s **fast, accurate, and extensible**.
-
----
-
-#### 🎙 HeartHz — Speech Emotion Recognition
-**Real-time emotion detection from audio**  
-Tech: TensorFlow • Keras • Librosa  
-- Trained on 1500+ audio samples  
-- 90.94% classification accuracy  
-- Optimized for low-latency inference
-
-This project blends **signal processing with deep learning**.
-
----
-
-#### 🩺 Skin Cancer Classifier
-**Multi-class image classifier (7 categories)**  
-Tech: TensorFlow • ResNet • OpenCV  
-- HAM10000 dataset (10k+ images)  
-- Significant lift over baseline
-- Augmentation + fine-tuning pipelines
-
-Focused on **medical image modeling with performance metrics**.
 
 ---
 
