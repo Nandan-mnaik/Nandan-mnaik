@@ -1,22 +1,14 @@
-<h1 align="center">Hey there 👋, I'm Nandan</h1>
-<p align="center">
-  <strong>AI Engineer | Machine Learning | Intelligent Systems | Open Source</strong>
-</p>
-
----
-
 ### 👨‍💻 About Me
 
-I'm an engineer passionate about **building real-world AI systems**—from data pipelines and models to production-ready software.
+I design and build **intelligent, resilient AI systems** — taking ideas from research to reliable, production-ready software.
 
-I've worked on systems involving:
+My interests sit at the intersection of **GenAI architecture, retrieval-augmented systems, and performance-driven backend engineering**. I like working on problems where accuracy, latency, and usability all matter.
 
-✔ Retrieval-augmented generation  
-✔ Speech & audio understanding  
-✔ Graph-centric knowledge systems  
-✔ Deep learning for vision & NLP
-
-When I'm not coding models, you'll find me tuning architectures, optimizing latency, or diving into systems engineering.
+- 🌍 Based in Bengaluru, India  
+- 🎓 B.E. in Artificial Intelligence & Machine Learning, RNS Institute of Technology (2022–2026)  
+- 🧠 Currently exploring **GraphRAG**, re-ranking strategies, and agentic workflows  
+- 🤝 Open to collaborations in AI/ML and cybersecurity  
+- ⚡ I care about building systems that are dependable, scalable, and close to real-world deployment standards
 
 ---
 
