@@ -85,7 +85,6 @@ My interests sit at the intersection of **GenAI architecture, retrieval-augmente
   </a>
 </p>
 
-
 ---
 
 > 🚀 I’m always open to exciting opportunities in AI/ML, RAG, and scalable intelligent systems.
