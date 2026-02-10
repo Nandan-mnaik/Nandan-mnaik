@@ -77,11 +77,11 @@ My interests sit at the intersection of **GenAI architecture, retrieval-augmente
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nandan-naik-201539255/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:nandanmaheshnaik@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
   </a>
 </p>
 
