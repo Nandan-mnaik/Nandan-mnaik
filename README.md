@@ -1,96 +1,490 @@
-<p align="center">
-  <img src="./tenor.gif" width="100%" alt="Bleach GIF">
-</p>
+<div align="center">
 
 # Hey, I'm Nandan 👋
 
-I architect end-to-end **AI systems**, turning cutting-edge research into resilient, production-ready applications.
+### AI/ML Engineer · GenAI · RAG · Intelligent Systems
 
-My interests sit at the intersection of **GenAI architecture, retrieval-augmented systems, and performance-driven backend engineering**. I like working on problems where accuracy, latency, and usability all matter.
+I build AI systems that turn research into **practical, scalable software**.
 
-- 🌍 Based in Bengaluru, India  
-- 🎓 B.E. in Artificial Intelligence & Machine Learning, RNS Institute of Technology (2022–2026)  
-- 🧠 Currently exploring **GraphRAG**, re-ranking strategies, and agentic workflows  
-- 🤝 Open to collaborations in AI/ML and agentic workflows
-- ⚡ I care about building systems that are dependable, scalable, and close to real-world deployment standards
+`GenAI` · `RAG` · `GraphRAG` · `Agentic AI` · `Backend Engineering`
 
----
-
-### 🛠️ Skills
-<div align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="Scikit-Learn" />
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask" />
-  </a>
-  <a href="https://neo4j.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=neo4j" height="40" alt="Neo4j" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
-  </a>
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="./tenor.gif" width="100%" alt="Bleach">
+
+</div>
+
+<br>
 
 ---
 
-### 💻 Projects
+<div align="center">
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**DevScope**](https://github.com/Nandan-mnaik/DevScope) | AI-powered CLI developer assistant that analyzes software projects locally, understands codebase structure and dependencies, and provides context-aware insights such as code explanations, dependency analysis, potential issues, and change impact. | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![LLM](https://img.shields.io/badge/-LLM-black) ![MCP](https://img.shields.io/badge/-MCP-black) |
-| [**Portfolio**](https://github.com/Nandan-mnaik/Portfolio) | Personal portfolio website showcasing projects, skills, and experience — built to highlight both technical work and design clarity. | ![HTML](https://img.shields.io/badge/-HTML-black?logo=html5) ![CSS](https://img.shields.io/badge/-CSS-black?logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript) |
-| [**RAG**](https://github.com/Nandan-mnaik/RAG) | Retrieval-Augmented Generation framework for building context-aware QA pipelines. Includes embedding generation, semantic search, and response synthesis. | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![LangChain](https://img.shields.io/badge/-LangChain-black) ![FAISS](https://img.shields.io/badge/-FAISS-black) |
-| [**RAG-using-LLAMA3.2**](https://github.com/Nandan-mnaik/RAG-using-LLAMA3.2) | Advanced RAG system integrating LLAMA 3.2 models for high-quality generative responses with retrieval support. Focused on scalable, low-latency inference. | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![LLAMA](https://img.shields.io/badge/-LLAMA-black) |
-| [**Certificate-Generator**](https://github.com/Nandan-mnaik/Certificate-generator) | Utility for bulk generation of custom certificates using automation logic and templating — ideal for workshops and events. | ![Python](https://img.shields.io/badge/-Python-black?logo=python) |
-| [**Skin_Cancer_Detection**](https://github.com/Nandan-mnaik/Skin_cancer_detection) | Deep learning pipeline for multi-class classification of skin lesions. Includes preprocessing, augmentation, and model fine-tuning for improved diagnostic accuracy. | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow) |
-| [**Time-Series-Analysis**](https://github.com/Nandan-mnaik/Time-series-Analysis) | Applied time series exploration, forecasting, and feature extraction workflows — useful for trend detection and predictive modeling. | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas) |
-| [**SER_proto**](https://github.com/Nandan-mnaik/Ser_proto) | Speech Emotion Recognition prototype demonstrating audio feature extraction and classification modeling with deep learning. | ![Python](https://img.shields.io/badge/-Python-black?logo=python) |
-| [**LANGCHAIN_FDP**](https://github.com/Nandan-mnaik/LANGCHAIN_FDP) | Functional LangChain demos and experiments covering chain building, tool use, and retrieval logic for LLM workflows. | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![LangChain](https://img.shields.io/badge/-LangChain-black) |
+## `$ whoami`
 
+</div>
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  Nandan Naik                                                 │
+│  ──────────────────────────────────────────────────────────  │
+│                                                              │
+│  ROLE        AI/ML Engineer                                  │
+│  LOCATION    Bengaluru, India                               │
+│  EDUCATION   B.E. Artificial Intelligence & Machine Learning │
+│  INSTITUTE   RNS Institute of Technology                     │
+│                                                              │
+│  FOCUS       Generative AI                                   │
+│              Retrieval-Augmented Generation                  │
+│              Intelligent Retrieval                           │
+│              Agentic AI                                      │
+│              AI Backend Systems                              │
+│                                                              │
+│  EXPLORING   GraphRAG · Hybrid Retrieval · Re-ranking        │
+│              Multi-hop Reasoning · Agentic Workflows         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<br>
 
 ---
 
+<div align="center">
+
+## `$ ls skills/`
+
+</div>
+
+<table>
+<tr>
+<th width="180">Directory</th>
+<th>Technologies</th>
+</tr>
+
+<tr>
+<td align="center"><b>languages/</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,cpp,java" height="42">
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>ai-ml/</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="42">
+&nbsp;&nbsp;
+<code>Keras</code>
+<code>Scikit-learn</code>
+<code>Transformers</code>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>genai/</b></td>
+<td>
+<code>LLMs</code>
+<code>LangChain</code>
+<code>Ollama</code>
+<code>Hugging Face</code>
+<code>MCP</code>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>retrieval/</b></td>
+<td>
+<code>RAG</code>
+<code>FAISS</code>
+<code>ChromaDB</code>
+<code>Qdrant</code>
+<code>BM25</code>
+<code>GraphRAG</code>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>backend/</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=fastapi,flask" height="42">
+&nbsp;&nbsp;
+<code>Streamlit</code>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>databases/</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=neo4j" height="42">
+&nbsp;&nbsp;
+<code>Vector Databases</code>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>tools/</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" height="42">
+</td>
+</tr>
+
+</table>
+
+<br>
+
 ---
 
-### 📫 Let’s Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nandan-naik-201539255/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:nandanmaheshnaik@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
-  </a>
-</p>
+## `$ git status`
+
+</div>
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  branch: main                                                │
+│                                                              │
+│  ● Building AI systems                                       │
+│  ● Exploring intelligent retrieval                           │
+│  ● Experimenting with local LLMs                             │
+│  ● Researching agentic workflows                             │
+│                                                              │
+│  working tree: clean                                         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Nandan-mnaik">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nandan-mnaik&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandan-mnaik&layout=compact&hide_border=true&theme=transparent" width="40%">
+
+</a>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandan-mnaik&hide_border=true&theme=transparent" width="55%">
+
+</div>
+
+<br>
 
 ---
 
-> 🚀 I’m always open to exciting opportunities in AI/ML, RAG, and scalable intelligent systems.
+<div align="center">
 
+## `$ ls projects/`
+
+</div>
+
+### 🔬 `devscope/`
+
+```text
+┌─[nandan@devscope]─[~/projects]
+└──╼ $ devscope analyze
+
+[+] Repository Discovery ........ DONE
+[+] Codebase Analysis ........... DONE
+[+] Dependency Mapping .......... DONE
+[+] Gap Identification .......... DONE
+[+] Evidence Collection ......... DONE
+
+PROJECT
+  DevScope
+
+PURPOSE
+  Research open-source implementations
+  before building.
+
+CAPABILITIES
+  → Repository discovery
+  → Multi-hop RAG
+  → Codebase understanding
+  → Gap identification
+  → Evidence-backed insights
+
+STACK
+  Python · Qwen 2.5 · Ollama
+  LangChain · FAISS · MCP
+
+STATUS
+  ● OPERATIONAL
+
+$ _
+```
+
+<div align="center">
+
+<a href="https://github.com/Nandan-mnaik/DevScope">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00ff66?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</div>
+
+<br>
+
+### 🎨 `artisanai/`
+
+```text
+┌─[nandan@artisan]─[~/projects]
+└──╼ $ artisan generate
+
+[+] Asset Generation ............ DONE
+[+] Segmentation ................ DONE
+[+] Style Preservation .......... DONE
+[+] 3D Asset Preparation ........ DONE
+
+PROJECT
+  ArtisanAI
+
+PURPOSE
+  AI-assisted asset preparation
+  for digital creators.
+
+PIPELINE
+  Prompt
+    ↓
+  Generation
+    ↓
+  Segmentation
+    ↓
+  Style Preservation
+    ↓
+  Export
+
+STACK
+  Stable Diffusion · ComfyUI
+  Hunyuan3D · OpenCV · Hugging Face
+
+STATUS
+  ● OPERATIONAL
+
+$ _
+```
+
+<div align="center">
+
+<a href="https://github.com/Nandan-mnaik/Ser_proto">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00ff66?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</div>
+
+<br>
+
+### 🧠 `intelliquery/`
+
+```text
+┌─[nandan@intelliquery]─[~/projects]
+└──╼ $ rag query
+
+[+] Document Ingestion .......... DONE
+[+] Embedding Generation ........ DONE
+[+] Vector Retrieval ............ DONE
+[+] Context Assembly ............ DONE
+[+] Response Generation ........ DONE
+
+PROJECT
+  IntelliQuery
+
+PURPOSE
+  Context-aware question answering
+  using local LLMs and retrieval.
+
+PIPELINE
+  Documents
+      ↓
+  Embeddings
+      ↓
+  Vector Search
+      ↓
+  Retrieved Context
+      ↓
+  Llama 3.2
+      ↓
+  Response
+
+STACK
+  Llama 3.2 · FAISS · ChromaDB
+  LangChain · Ollama
+
+STATUS
+  ● ONLINE
+
+$ _
+```
+
+<div align="center">
+
+<a href="https://github.com/Nandan-mnaik/RAG-using-LLAMA3.2">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00ff66?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</div>
+
+<br>
+
+### ❤️ `hearthz/`
+
+```text
+┌─[nandan@hearthz]─[~/projects]
+└──╼ $ hearthz predict audio.wav
+
+[+] Loading Audio ............... DONE
+[+] Preprocessing ............... DONE
+[+] Feature Extraction .......... DONE
+[+] LSTM Inference .............. DONE
+
+INPUT
+  audio.wav
+
+MODEL
+  Custom LSTM
+
+DATASETS
+  TESS · RAVDESS
+
+PREDICTION
+  Emotion → HAPPY
+
+ACCURACY
+  ██████████████████ 90.94%
+
+STACK
+  TensorFlow · Keras · Librosa
+
+STATUS
+  ● COMPLETE
+
+$ _
+```
+
+<br>
+
+---
+
+<div align="center">
+
+## `$ ls projects --all`
+
+</div>
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  🩺 skin_cancer_detection/                                  │
+│     Computer Vision · HAM10000 · TensorFlow · ResNet         │
+│                                                              │
+│  📈 time_series_analysis/                                   │
+│     Forecasting · Anomaly Detection · Clustering             │
+│                                                              │
+│  📜 certificate_generator/                                  │
+│     Python · Automation · Template Generation                 │
+│                                                              │
+│  🔗 LANGCHAIN_FDP/                                          │
+│     LangChain · LLM Workflows · Retrieval                     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+---
+
+<div align="center">
+
+## `$ cat currently_exploring.txt`
+
+```text
+GraphRAG
+   │
+   ▼
+Hybrid Retrieval
+   │
+   ▼
+Re-ranking
+   │
+   ▼
+Multi-hop Reasoning
+   │
+   ▼
+Agentic Workflows
+   │
+   ▼
+Reliable AI Systems
+```
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## `$ cat research/ARTISANAI.md`
+
+</div>
+
+```text
+TITLE
+  ARTISANAI: AI-Powered Automated Asset Generation
+  for Game and UI/UX Design
+
+VENUE
+  I2ITCON 2026
+
+SPONSOR
+  IEEE Pune Section
+
+FOCUS
+  AI-powered asset generation
+  Style preservation
+  Asset preparation
+  Game & UI/UX workflows
+```
+
+<br>
+
+---
+
+<div align="center">
+
+## `$ connect`
+
+<br>
+
+<a href="https://github.com/Nandan-mnaik">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nandan-naik-201539255/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:nandanmaheshnaik@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+```text
+$ echo "Building intelligent systems. Exploring what's next."
+
+Building intelligent systems. Exploring what's next.
+
+$ exit
+```
+
+</div>
