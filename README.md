@@ -1,3 +1,5 @@
+<img align="right" width="400" src="./tenor.gif">
+
 # Hey, I'm Nandan 👋
 
 I architect end-to-end **AI systems**, turning cutting-edge research into resilient, production-ready applications.
