@@ -1,4 +1,6 @@
-<img align="right" width="400" src="./tenor.gif">
+<p align="center">
+  <img src="./tenor.gif" width="100%" alt="Bleach GIF">
+</p>
 
 # Hey, I'm Nandan 👋
 
